@@ -1,0 +1,1 @@
+This directory contains collection of the example scripts demonstrating some base techniques of doing data analysis with Python.

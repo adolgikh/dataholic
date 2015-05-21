@@ -1,0 +1,41 @@
+SHA,PCT,PRACTICE,BNF     ,DRUG NAME                              ,ITEMS   ,NIC        ,ACT COST,PERIOD
+Q32,5NY,B99026,0101010G0,Co-Magaldrox(Magnesium/Aluminium Hydrox),1,2.79,2.6,201109
+Q32,5NY,B99026,0101021B0,Alginic Acid Compound Preparations      ,58,296.78,275.05,201109
+Q32,5NY,B99026,0102000A0,Alverine Citrate                        ,1,10.58,9.77,201109
+Q32,5NY,B99026,0102000J0,Dicycloverine Hydrochloride             ,2,16.28,15.06,201109
+Q32,5NY,B99026,0102000L0,Glycopyrronium Bromide                  ,1,176.4,162.4,201109
+Q32,5NY,B99026,0102000N0,Hyoscine Butylbromide                   ,9,17.03,15.97,201109
+Q32,5NY,B99026,0102000P0,Mebeverine Hydrochloride                ,9,40.81,37.85,201109
+Q32,5NY,B99026,0102000T0,Peppermint Oil                          ,1,7.04,6.51,201109
+Q32,5NY,B99026,0102000X0,Mebeverine HCl Compound Preparations    ,1,15,13.84,201109
+Q32,5NY,B99026,0103010N0,Nizatidine                              ,1,12.04,11.11,201109
+Q32,5NY,B99026,0103010T0,Ranitidine Hydrochloride                ,37,78.99,73.92,201109
+Q32,5NY,B99026,0103040M0,Misoprostol                             ,1,10.03,9.26,201109
+Q32,5NY,B99026,0103050L0,Lansoprazole                            ,168,277.89,261.23,201109
+Q32,5NY,B99026,0103050P0,Omeprazole                              ,37,91.59,85.51,201109
+Q32,5NY,B99026,0103050R0,Pantoprazole                            ,16,37.93,35.43,201109
+Q32,5NY,B99026,0103050T0,Rabeprazole Sodium                      ,2,50.66,46.69,201109
+Q32,5NY,B99026,0104020L0,Loperamide Hydrochloride                ,7,7.59,7.22,201109
+Q32,5NY,B99026,0105010B0,Mesalazine (Systemic)                   ,1,54.89,50.56,201109
+Q32,5NY,B99026,2002,Arm Sling/Bandages                      ,3,72.48,66.95,201109
+Q32,5NY,B99026,2003,Wound Management & other Dressings      ,6,76.5,70.61,201109
+Q32,5NY,B99026,2009,Stockinette                             ,7,21.51,20.01,201109
+Q32,5NY,B99026,2010,Surgical Adhesive Tape                  ,1,5.04,4.67,201109
+Q32,5NY,B99026,2101,Other Appliances                        ,109,686.32,635.25,201109
+Q32,5NY,B99026,2102,Catheters                               ,2,327.37,301.33,201109
+Q32,5NY,B99026,2107,Elastic Hosiery                         ,2,12.03,11.14,201109
+Q32,5NY,B99026,2122,Emollients                              ,13,70.69,65.5,201109
+Q32,5NY,B99026,2124,Nasal Products                          ,2,1.94,1.85,201109
+Q32,5NY,B99026,2129,Plantar Pressure Offloading Device      ,1,33.5,30.87,201109
+Q32,5NY,B99026,2130,Eye Products                            ,6,25.08,23.28,201109
+Q32,5NY,B99026,2260,Night Drainage Bags                     ,1,8.01,7.37,201109
+Q32,5NY,B99026,2345,Deodorants                              ,1,9.44,8.69,201109
+Q32,5NY,B99026,2360,Ileostomy Bags                          ,3,277.02,254.99,201109
+Q32,5NY,B99026,2380,Skin Fillers And Protectives            ,7,47.68,44.07,201109
+Q32,5NY,B99026,2385,Skin Protectors                         ,1,56,51.55,201109
+Q32,5NY,B99026,2394,Two Piece Ostomy Systems                ,1,323.44,297.72,201109
+Q33,5PD,K99004,0101010R0,Simeticone                              ,1,5.2,4.82,201109
+Q33,5PD,K99005,0101021B0,Alginic Acid Compound Preparations      ,18,118.27,109.43,201109
+Q33,5PD,K99006,0102000A0,Alverine Citrate                        ,11,75.97,103.62,201109
+Q33,5PD,K99007,0102000P0,Mebeverine Hydrochloride                ,4,21.39,19.81,201109
+Q33,5PD,K99008,0102000T0,Peppermint Oil                          ,1,12.05,11.12,201109
