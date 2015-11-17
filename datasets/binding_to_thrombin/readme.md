@@ -1,0 +1,1 @@
+This data set contains data for prediction of binding drugs to thrombin. See description here http://pages.cs.wisc.edu/~dpage/kddcup2001/

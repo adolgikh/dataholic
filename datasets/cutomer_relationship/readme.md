@@ -1,0 +1,1 @@
+The data is taken form http://kdd.org/kdd-cup/view/kdd-cup-2009/Data

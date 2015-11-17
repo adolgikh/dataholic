@@ -1,0 +1,2 @@
+This data set contains 10000054 ratings and 95580 tags applied to 10681 movies by 71567 users of the online movie recommender service MovieLens.
+http://www.grouplens.org/system/files/ml-100k-README.txt

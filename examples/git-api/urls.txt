@@ -1,0 +1,37 @@
+http://www.voidspace.org.uk/python/mock/
+http://code.google.com/p/google-diff-match-patch/
+http://code.google.com/p/py-amqplib/
+https://code.google.com/p/svgweb/
+http://celeryproject.org
+
+https://api.github.com/repos/bmihelac/django-import-export/django-mptt/django-mptt
+https://api.github.com/repos/matthewwithanm/pilkit/
+https://api.github.com/repos/graingert/django-babel/
+https://api.github.com/repos/mitsuhiko/flask/
+https://api.github.com/repos/mrjoes/flask-admin/
+https://api.github.com/repos/DmitryBaranovskiy/raphael/
+
+http://codespeak.net/execnet
+http://www.pythonware.com/products/pil
+http://docutils.sourceforge.net/
+http://south.aeracode.org/
+http://pythonhosted.org/pytz
+http://tox.testrun.org/
+http://bitbucket.org/hpk42/pytest-cache/
+http://bitbucket.org/runeh/anyjson/
+https://bitbucket.org/kwi/py2-ipaddress/
+https://bitbucket.org/ned/coveragepy/overview
+https://bitbucket.org/hpk42/devpi
+http://bitbucket.org/tarek/flake8
+http://bitbucket.org/hpk42/apipkg
+http://bitbucket.org/hpk42/pytest-pep8/
+https://bitbucket.org/birkenfeld/pygments-main
+http://bitbucket.org/izi/polib/
+http://bitbucket.org/san/django-mptt-tree-editor
+http://bitbucket.org/zzzeek/alembic
+https://bitbucket.org/kmike/django-coverage/
+http://bitbucket.org/pypa/wheel/
+
+names = [execnet, pil, docutils, south, pytz, tox, pytest-cache, anyjson,
+py2-ipaddress, coverage, devpi, flake8, apipkg, pytest-pep8, pygments, polib,
+django-mptt-tree-editor, alembic, django-coverage, wheel]
