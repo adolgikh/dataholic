@@ -1,0 +1,14 @@
+JSAnimation==0.1
+jupyter==1.0.0
+jupyter-client==4.1.1
+jupyter-console==4.1.0
+jupyter-core==4.0.6
+matplotlib==1.5.1
+notebook==4.1.0
+numpy==1.10.4
+pandas==0.17.1
+scikit-learn==0.17.1
+scipy==0.17.0
+SFrame==1.8.3
+sklearn==0.0
+sympy==0.7.6.1
